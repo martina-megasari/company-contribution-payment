@@ -1,0 +1,7 @@
+{
+  "dataset_filepath": "data/companies_median_monthly_contribution_extended.csv",
+  "feature_selection_method": null,
+  "prediction_target": "contribution",
+  "algorithm": "linreg",
+  "random_state": 13
+}
